@@ -19,6 +19,7 @@ Please follow [this link](./README_by_year.md) to view papers in chronological o
 </tr> 
 <tr>
     <td>&emsp;<a href="#content-controllable-summ">3.3 Content Controllable Summrization</a></td>
+    <td></td>
 </tr>
 
 <tr><td colspan="2"><a href="#evaluation">4. Evaluation</a></td></tr>
@@ -112,4 +113,4 @@ Controllable summarization datasets and toolkits.
 [paper](https://arxiv.org/abs/1909.01716?context=cs.IR)
 [github link](https://github.com/WING-NUS/scisumm-corpus)
 
-   * Michihiro Yasunaga, Jungo Kasai, Rui Zhang, Alexander R. Fabbri, Irene Li, Dan Friedman, Dragomir R. Radev*
+   *Michihiro Yasunaga, Jungo Kasai, Rui Zhang, Alexander R. Fabbri, Irene Li, Dan Friedman, Dragomir R. Radev*
