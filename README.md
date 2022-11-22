@@ -1,7 +1,6 @@
 # Controllable-Summarization-Paper-List
 
-# Question-Generation-Paper-List
-A summary of must-read papers for Neural Question Generation (NQG)
+A summary of must-read papers for Controllable Summarization.
 
 - Contributed by **[Yixi Ding](https://github.com/dyxohjl666)**
 
